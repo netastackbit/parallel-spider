@@ -4,9 +4,12 @@ sections:
   - type: hero_section
     title: Hey Bridget
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      aslkdjfl;askjdf;lkasjdfl
+
+
+
+      **a;sldjf**
     actions:
       - label: Try Free
         url: /pricing
